@@ -88,7 +88,7 @@
                 </div>
             </form>
             <div style="text-align: center; margin-top: 50px;">
-      Made with <span style="color: #e25555;">&hearts;</span> by Apekshya.
+      Made with <span style="color: #e25555;">&hearts;</span> by Apekshya & Amrita.
   </div>  
         </div>
     </div>
